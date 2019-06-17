@@ -714,6 +714,18 @@ font-size: 11px;
     border-radius: 3px;
     font-size: 18px;
     padding: 20px 40px;
+    margin-inline-end: 40px;
+}
+.btn-xxl {
+    color: #fff;
+     background-color: #f78e04;
+    border-color: #f78e04;
+    font-family: "Robot",sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    border-radius: 3px;
+    font-size: 18px;
+    padding: 20px 40px;
 }
 
 /* Back to top button
