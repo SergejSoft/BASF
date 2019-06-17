@@ -1,2 +1,2 @@
-# FI-Product
-TEST Repo for FI
+# BASF-Product validation workshop
+TEST Repo for BASF workshop
